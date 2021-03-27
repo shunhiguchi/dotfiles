@@ -1,0 +1,13 @@
+{
+  "[python]": {
+    "editor.rulers": [
+      72,
+      79
+    ]
+  },
+  "[javascript]": {
+    "editor.rulers": [
+      80
+    ]
+  }
+}
