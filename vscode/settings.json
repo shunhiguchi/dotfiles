@@ -1,4 +1,9 @@
 {
+  "[java]": {
+    "editor.rulers": [
+      80
+    ]
+  },
   "[python]": {
     "editor.rulers": [
       72,
