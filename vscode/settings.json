@@ -1,7 +1,7 @@
 {
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
-    "workbench.startupEditor": none,
+    "workbench.startupEditor": "none",
     "[java]": {
         "editor.rulers": [
             80
