@@ -1,18 +1,21 @@
 {
-  "[java]": {
-    "editor.rulers": [
-      80
-    ]
-  },
-  "[python]": {
-    "editor.rulers": [
-      72,
-      79
-    ]
-  },
-  "[javascript]": {
-    "editor.rulers": [
-      80
-    ]
-  }
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "[java]": {
+        "editor.rulers": [
+            80
+        ]
+    },
+    "[python]": {
+        "editor.rulers": [
+            72,
+            79
+        ]
+    },
+    "[javascript]": {
+        "editor.rulers": [
+            80
+        ]
+    }
 }
