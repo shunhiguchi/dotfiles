@@ -17,5 +17,6 @@
         "editor.rulers": [
             80
         ]
-    }
+    },
+    "window.titleBarStyle": "custom"
 }
